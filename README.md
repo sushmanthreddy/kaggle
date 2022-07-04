@@ -14,3 +14,5 @@ was titanic dataset and next ,started with MNIST dataset
    the people who were alive and who were dead?
 ## 2. MNIST DATASET:
 
+   ![Screenshot-from-2019-05-29-21-23-47](https://user-images.githubusercontent.com/73489688/177213195-80241f6e-0e99-4d42-ad16-1d7644a54972.png)
+
