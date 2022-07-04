@@ -15,4 +15,8 @@ was titanic dataset and next ,started with MNIST dataset
 ## 2. MNIST DATASET:
 
    ![Screenshot-from-2019-05-29-21-23-47](https://user-images.githubusercontent.com/73489688/177213195-80241f6e-0e99-4d42-ad16-1d7644a54972.png)
+   
+   Here in this dataset we contain 70000 handwritten digits we train our model with 60000 handwritten digits and another 10000 were used for the
+   testing the model and in my model is trained with only 50000 and another 10000 is used for validation of model and here we are getting an accuracy 85
+   percent and ,I have completely implemented using pytorch and matlib
 
